@@ -1,0 +1,50 @@
+{
+  "data": [{
+      "index": "推荐银行",
+      "details": [{
+          "name": "中国银行",
+          "icon": "#icon-zhongguoyinhang"
+        },
+        {
+          "name": "中国工商银行",
+          "icon": "#icon-zhongguogongshangyinhang"
+
+        }
+      ]
+    },
+    {
+      "index": "B",
+      "details": [{
+        "name": "北京银行",
+        "icon": "#icon-beijingyinhang"
+      }]
+    },
+    {
+      "index": "P",
+      "details": [{
+        "name": "浦发银行",
+        "icon": "#icon-pufayinhang"
+      }]
+    },
+    {
+      "index": "Z",
+      "details": [{
+          "name": "中国银行",
+          "icon": "#icon-zhongguoyinhang"
+        }, {
+          "name": "中国农业银行",
+          "icon": "#icon-zhongguonongyeyinhang"
+        },
+        {
+          "name": "中国工商银行",
+          "icon": "#icon-zhongguogongshangyinhang"
+
+        }, {
+          "name": "中国邮政",
+          "icon": "#icon-zhongguoyouzheng"
+
+        }
+      ]
+    }
+  ]
+}

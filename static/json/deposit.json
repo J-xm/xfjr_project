@@ -1,0 +1,40 @@
+{
+  "$schema": "deposit_schema.json",
+  "data": [{
+      "titleText": "智能存款",
+      "risk": "随存随取",
+      "term": "靠档计息",
+      "amount": "500元起",
+      "rateText": "1.80%",
+      "rateDetailText": "预期年化收益",
+      "url": "",
+      "src": "./imgs/deposit/deposit1.png",
+      "label": "deposit1",
+      "types":"" 
+    },
+    {
+      "titleText": "幸福存1号",
+      "risk": "期限灵活",
+      "term": "方便快捷",
+      "amount": "20万起",
+      "rateText": "2.50%",
+      "rateDetailText": "最高年化收益",
+      "url": "",
+      "src": "./imgs/deposit/deposit2.png",
+      "label": "deposit2",
+      "types":""
+    },
+    {
+      "titleText": "幸福存14号",
+      "risk": "定期存款",
+      "term": "稳定收益",
+      "amount": "1万起  期限14个月",
+      "rateText": "2.60%",
+      "rateDetailText": "预期年化收益",
+      "url": "",
+      "src": "./imgs/deposit/deposit3.png",
+      "label": "deposit3",
+      "types":""
+    }
+  ]
+}
